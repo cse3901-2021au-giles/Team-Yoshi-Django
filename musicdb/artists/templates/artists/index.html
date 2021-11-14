@@ -1,0 +1,13 @@
+{% if artist_list %}
+	<h1> Artists in database </h1>
+	<ol>
+		{% for artist in artist_list %}
+			<li><a href="/artists/{{ artist.id }}"> {{ artist.name }} </a></li>
+		{% endfor %}
+	
+	</ol>
+
+	{% else %}
+		<p> No artists available. </p>
+
+{% endif %}

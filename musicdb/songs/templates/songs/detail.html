@@ -1,0 +1,7 @@
+{% if song %}
+	<h1> Song Detail </h1>
+	<p> Title: {{ song.title }} </p>
+	<p> Artist: {{ song.artist_obj.name }} </p>
+	<p> Runtime: {{ song.length }} </p>
+
+{% endif %}
