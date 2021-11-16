@@ -9,9 +9,9 @@ This repository contains all the material Team Yoshi used for the tech presentat
 ## Learning Objectives
 
 - Be familiar with Python. Be able to write a simple Python code after the presentation.
-- Be familiar with Djagon. Be able to know the concept of Djagon, how to set up and use Djagon.
-- Be familiar with the differences between Djagon and Rails. Be able to recognize the similarities and differences between Djagon and Rails.
-- Be able to create a simple website by using Djagon, like the website in the demo
+- Be familiar with Django. Be able to know the concept of Django, how to set up and use Django.
+- Be familiar with the differences between Django and Rails. Be able to recognize the similarities and differences between Django and Rails.
+- Be able to create a simple website by using Django, like the website in the demo
 
 ## Notes
 
